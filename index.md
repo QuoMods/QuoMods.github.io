@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to QuoMods!
 
-You can use the [editor on GitHub](https://github.com/QuoMods/QuoMods.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Here you can download every script made by Quo.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
